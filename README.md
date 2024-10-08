@@ -11,7 +11,7 @@ What is Braille? Braille is the tactile system visually impaired uses understood
 - **Optimization** <br> Currently the game has been optimized by occlusion culling, draw call batching, LODs.
 - **2D Characther** <br> Game ini menggunakan 2D character dengan 3D Environment. 2D character ini menggunakan Sprite Renderer, walaupun menggunakan character 2D tetap menghasilkan shadow menggunakan Shader Graph yang digunakan di Sprite Renderer
 ![image](https://github.com/Felixwijaya04/AnotherChoice_readme/blob/main/images/anotherChoice.png) ![image](https://github.com/Felixwijaya04/AnotherChoice_readme/blob/main/images/Shader%20Graph.png)
-- **Day & Night Cycle** Sistem Day Night ini menggunakan Scriptable Object yang berisi data Day & Night seperti lighting, Sky.
+- **Day & Night Cycle** <br> Sistem Day Night ini menggunakan Scriptable Object yang berisi data Day & Night seperti lighting, Sky.
 ![image](https://github.com/Felixwijaya04/AnotherChoice_readme/blob/main/images/SO%20Day%20night.png)
 
 
