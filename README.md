@@ -12,6 +12,7 @@ What is Braille? Braille is the tactile system visually impaired uses understood
 ![image](https://github.com/Felixwijaya04/AnotherChoice_readme/blob/main/images/anotherChoice.png) ![image](https://github.com/Felixwijaya04/AnotherChoice_readme/blob/main/images/Shader%20Graph.png)
 - **Day & Night Cycle** <br> This game feature allow the game to change the time dynamically based on the player game progress. The system is made with scriptable objects to store and alter the game data such as lighting, sky color and post processing.
 ![image](https://github.com/Felixwijaya04/AnotherChoice_readme/blob/main/images/SO%20Day%20night.png)
-- **Optimization** <br> Currently the game has been optimized by occlusion culling, draw call batching, LODs.
+- **Optimization** <br> Currently the game has been optimized by occlusion culling, draw call batching, LODs. This optimization brings a significant changes to the game performance, an increase of 20 fps was made after occlusion culling was enabled.
+<br>![image](https://github.com/Felixwijaya04/AnotherChoice_readme/blob/main/images/Screenshot%202024-10-08%20161844.png)
 
 
