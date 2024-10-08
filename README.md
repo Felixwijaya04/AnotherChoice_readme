@@ -8,3 +8,4 @@ What is Braille? Braille is the tactile system visually impaired uses understood
 ## 🔥Development Process
 - **Environment** <br> The game was built in High Definition Render Pipeline (HDRP), ensuring the best graphic our game can provide. For the lighting system, we use realtime global illumination. Then we add a reflection probe and post-processing to set a suitable mood for the game. To create the level design, we use the terrain tools to paint texture such as road and sidewalk textures. The environment assets we used can be bought here: [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/urban/tokyo-street-228474)
 ![image](https://github.com/Felixwijaya04/AnotherChoice_readme/blob/main/images/Screenshot%20(539).png)
+- **Optimization** <br> Currently the game has been optimized by occlusion culling, draw call batching, LODs. 
