@@ -6,4 +6,4 @@ What is Braille? Braille is the tactile system visually impaired uses understood
 <br>
 
 ## 🔥Development Process
-- **Environment**
+- **Environment** <br> The game was built in High Definition Render Pipeline (HDRP), ensuring the best graphic our game can provide. For the lighting system, we use realtime global illumination. Then we add a reflection probe and post-processing to set a suitable mood for the game. 
