@@ -26,6 +26,18 @@ What is Braille? Braille is the tactile system visually impaired uses understood
   
 </details>
 <details>
+  <summary> <b>Contribution as (Lead Game programmer)</b> </summary>
+  
+  - Game Movement
+  - Camera Behaviour
+  - Braille Mechanic
+  - Day & Night Cycle
+  - Shadow Optimization
+  - Dialogue System
+  
+</details>
+
+<details>
   <summary> <b>Contribution as (Second Game programmer)</b> </summary>
   
   - Audio programming
