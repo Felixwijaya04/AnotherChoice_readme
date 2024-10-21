@@ -16,7 +16,8 @@ What is Braille? Braille is the tactile system visually impaired uses understood
 | Game Designer | Felix Wijaya | 2 weeks |
 | Lead Game Programmer | Mario Valent Wibowo | 2 months |
 | Second Game Programmer | Felix Wijaya | 2 months |
-| 2D Artist & Animator| Vincent Tanujaya | 2 months |
+| 2D Artist & Animator | Vincent Tanujaya | 2 months |
+| Environment Artist | Felix Wijaya | 2 months |
 <details>
   <summary> <b>Contribution as (Game Designer)</b> </summary>
   
@@ -43,6 +44,13 @@ What is Braille? Braille is the tactile system visually impaired uses understood
   - Audio programming
   - Game settings
   - Graphic optimization
+  
+</details>
+<details>
+  <summary> <b>Contribution as (Environment Artist)</b> </summary>
+  
+  - Make a city design using the 3D assets provided
+  - Responsible for lighting & composition
   
 </details>
 
